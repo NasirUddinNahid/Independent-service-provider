@@ -1,5 +1,15 @@
-.fixing-extra-part{
+.extra-img img {
+    width: 350px;
+    border-radius: 50px;
+}
+
+.fixing-extra-part {
     display: grid;
-    grid-template-columns: repeat(3,1fr);
+    grid-template-columns: repeat(2, 1fr);
     gap: 50px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
 }
