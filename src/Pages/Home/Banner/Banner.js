@@ -9,9 +9,9 @@ const Banner = () => {
         <div>
             <Carousel>
                 <Carousel.Item interval={1000}>
-                    <img
+                    <img 
                         height='650px'
-                        className="d-block img-fluid "
+                        className=" d-block img-fluid  "
                         src={slider1}
                         alt="First slide"
                     />
@@ -35,7 +35,7 @@ const Banner = () => {
                 <Carousel.Item>
                     <img
                         height='650px'
-                        className="d-block w-100"
+                        className="d-block img-fluid"
                         src={slider3}
                         alt="Third slide"
                     />
