@@ -14,3 +14,11 @@
     margin-bottom: 30px;
     padding: 60px;
 }
+
+@media only screen and (max-width: 576px) {
+    
+    .fixing-extra-part{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    }
+}

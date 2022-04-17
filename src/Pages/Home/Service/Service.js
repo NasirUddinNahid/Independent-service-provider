@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import './Service.css';
 
 const Service = (props) => {
@@ -16,7 +17,7 @@ const Service = (props) => {
                 <p>{point3}</p>
                 <p>{point4}</p>
                 <p>{point5}</p>
-                <button >See More</button>
+                <Link to='/checkout' className='join-btn' >Join</Link>
             </div>
 
         </div>
