@@ -1,0 +1,24 @@
+.service {
+    box-shadow: 0px 12px 23px -8px #464244;
+    border-radius: 30px;
+}
+
+.service .description img {
+    border-radius: 30px;
+    width: 300px;
+    padding: 10px;
+
+}
+
+.service .description {
+    text-align: center;
+}
+
+.service .description button {
+    color: #ffffff;
+    font-weight: 500;
+    background-color: #191216;
+    border-radius: 30px;
+    box-shadow: 0px 12px 23px -8px #ff008f;
+    padding: 10px;
+}
