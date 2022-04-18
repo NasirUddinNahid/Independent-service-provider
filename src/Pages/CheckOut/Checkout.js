@@ -4,7 +4,7 @@ import './Checkout.css';
 const Checkout = () => {
     return (
         <div className='check-some'>
-           <h1>Nahid</h1>
+            <h1>This Is secret Page</h1>
         </div>
     );
 };
