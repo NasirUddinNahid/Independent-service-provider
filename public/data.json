@@ -4,32 +4,32 @@
         "img": "images/img1.jpg",
         "name": "Fitness",
         "price": 347,
-        "point1": "photo sharing school",
-        "point2": "photo sharing school",
-        "point3": "photo sharing school",
-        "point4": "photo sharing school",
-        "point5": "photo sharing school"
+        "point1": "Barbell push press",
+        "point2": "Goblet squat ",
+        "point3": "Dumbbell single arm row",
+        "point4": "Shoulder lateral raise",
+        "point5": "Bench press "
     },
     {
         "id": 2,
         "img": "images/img2.jpg",
-        "name": "Fitness",
+        "name": "Boxing",
         "price": 435,
-        "point1": "photo sharing school",
-        "point2": "photo sharing school",
-        "point3": "photo sharing school",
-        "point4": "photo sharing school",
-        "point5": "photo sharing school"
+        "point1": "Squats",
+        "point2": "Lunges/walking lunges",
+        "point3": "Weighted punches",
+        "point4": "Hanging knee raises",
+        "point5": "Weighted punches"
     },
     {
         "id": 3,
         "img": "images/img3.jpg",
-        "name": "Fitness",
+        "name": "Athlete",
         "price": 343,
-        "point1": "photo sharing school",
-        "point2": "photo sharing school",
-        "point3": "photo sharing school",
-        "point4": "photo sharing school",
-        "point5": "photo sharing school"
+        "point1": "Power cleans",
+        "point2": "Box jumps",
+        "point3": "Bench press",
+        "point4": "Squats",
+        "point5": "Lunges"
     }
 ]

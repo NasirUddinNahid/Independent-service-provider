@@ -38,13 +38,8 @@ const Register = () => {
 
         await createUserWithEmailAndPassword(email, password)
 
-        if (user) {
             navigate('/home')
-        }
-        else {
-            setError('wrong password');
-        }
-
+        
     }
     return (
         <div className='register-positioning'>

@@ -1,6 +1,19 @@
+.extra-text{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.extra-img{
+background-color: black;
+border-radius: 20px;
+}
 .extra-img img {
-    width: 350px;
+    width: 300px;
     border-radius: 50px;
+   
+    
 }
 
 .fixing-extra-part {
@@ -13,6 +26,7 @@
     margin-top: 50px;
     margin-bottom: 30px;
     padding: 60px;
+    
 }
 
 @media only screen and (max-width: 576px) {

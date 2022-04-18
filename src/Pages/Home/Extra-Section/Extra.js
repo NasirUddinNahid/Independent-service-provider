@@ -5,7 +5,7 @@ import './Extra.css'
 const Extra = () => {
     return (
         <div className='fixing-extra-part'>
-            <div>
+            <div className='extra-text'>
                 <h1>Get In Touch</h1>
                 <p>
                     If you have a question or <br />

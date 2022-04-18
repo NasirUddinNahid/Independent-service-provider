@@ -9,15 +9,16 @@ const Banner = () => {
         <div className='container-fluid mt-5'>
             <Carousel>
                 <Carousel.Item interval={1000}>
-                    <img 
+                    <img
                         height='650px'
                         className=" d-block img-fluid  "
                         src={slider1}
                         alt="First slide"
                     />
                     <Carousel.Caption>
-                        <h3>First slide label</h3>
-                        <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+                        <h1>EIGHT WEEKS</h1>
+                        <h5>FOR YOUR FRIENDS AND FAMILY</h5>
+
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item interval={500}>
@@ -28,8 +29,9 @@ const Banner = () => {
                         alt="Second slide"
                     />
                     <Carousel.Caption>
-                        <h3>Second slide label</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                        <h5>IT HURTS NOW</h5>
+                        <h3>BUT ONE DAY IT WILL BE YOUR</h3>
+                        <h1>WARM UP!</h1>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
@@ -40,8 +42,8 @@ const Banner = () => {
                         alt="Third slide"
                     />
                     <Carousel.Caption>
-                        <h3>Third slide label</h3>
-                        <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+                        <h1>YOUR BODY IS REFLECTION </h1>
+                        <h3>OF YOUR LIFE STYLE</h3>
                     </Carousel.Caption>
                 </Carousel.Item>
             </Carousel>
